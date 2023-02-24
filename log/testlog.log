@@ -1,0 +1,290 @@
+2023-02-17 14:13:10,160 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-17 14:13:10,173 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-17 14:13:16,181 - ui_automation.utilities.SelectHelper -INFO - I have entered login information and then clicked on login button
+2023-02-21 10:11:46,054 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 10:11:46,068 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 10:11:48,743 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-21 10:12:57,924 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 10:12:57,937 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 10:12:59,829 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-21 10:12:59,888 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product item
+2023-02-21 10:21:51,755 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 10:21:51,775 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 10:21:53,924 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-21 10:21:53,977 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product item
+2023-02-21 10:34:35,997 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 10:34:36,012 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 10:34:38,250 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-21 10:34:38,309 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product item
+2023-02-21 15:12:23,381 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:12:23,402 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:12:23,412 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:12:23,415 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:12:23,421 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:12:23,425 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:12:28,116 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-21 15:12:28,566 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-21 15:12:28,664 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product item
+2023-02-21 15:12:28,922 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:12:28,925 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:12:46,911 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:12:46,914 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:13:04,699 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:13:04,700 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:13:27,950 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:13:27,952 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:13:45,808 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:13:45,811 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:14:03,561 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:14:03,562 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:14:21,350 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:14:21,352 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-21 15:14:39,134 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+2023-02-21 15:14:39,136 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-02-23 14:15:59,813 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:15:59,840 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-02-23 14:16:01,093 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+2023-02-23 14:16:07,882 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_win32.zip
+2023-02-23 14:16:07,981 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:07,990 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:07,994 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:07,999 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:08,003 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:13,766 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:16:13,768 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:16:13,977 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product item
+2023-02-23 14:16:14,263 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:14,265 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:16,418 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:16,421 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:18,052 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:18,054 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:25,163 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:25,163 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:26,886 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:26,892 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:28,714 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:28,714 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:30,480 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:30,483 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:16:32,221 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:16:32,224 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:19,158 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:19,170 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:19,179 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:19,182 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:19,197 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:19,200 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:24,564 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:21:24,627 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:21:24,843 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product item
+2023-02-23 14:21:25,135 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:25,138 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:26,886 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:26,892 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:28,551 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:28,551 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:35,239 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:35,239 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:37,462 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:37,477 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:39,396 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:39,396 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:41,313 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:41,315 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:21:43,484 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:21:43,487 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:27:51,217 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:27:51,227 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:27:51,234 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:27:51,246 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:27:51,251 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:27:51,253 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:27:56,340 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:27:56,681 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:27:56,787 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:27:56,877 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:27:57,139 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:27:57,147 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:27:58,936 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:27:58,939 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:28:00,649 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:28:00,649 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:28:07,574 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:28:07,587 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:28:09,825 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:28:09,825 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:28:11,376 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:28:11,376 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:28:12,954 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:28:12,956 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:28:14,556 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:28:14,559 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:40,018 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:40,035 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:40,043 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:40,053 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:40,058 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:40,062 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:43,820 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:32:44,139 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:32:44,216 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:32:44,585 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:32:44,834 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:44,837 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:46,700 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:46,702 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:48,397 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:48,399 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:55,120 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:55,120 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:57,238 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:57,238 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:32:58,865 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:32:58,865 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:33:00,414 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:33:00,416 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:33:02,016 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:33:02,019 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:07,687 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:07,699 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:07,709 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:07,722 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:07,727 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:07,731 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:11,581 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:34:11,581 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:34:11,821 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:34:12,056 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:34:12,435 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:12,443 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:14,693 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:14,696 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:16,570 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:16,574 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:23,367 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:23,370 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:24,918 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:24,921 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:26,500 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:26,502 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:28,120 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:28,122 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:34:29,662 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:34:29,665 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:38:52,450 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:38:52,463 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:38:52,472 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:38:52,477 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:38:52,482 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:38:52,493 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:38:56,780 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:38:56,821 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:38:57,231 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:38:57,332 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:38:57,717 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:38:57,725 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:38:59,676 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:38:59,681 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:39:01,478 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:39:01,486 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:39:08,288 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:39:08,288 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:39:11,443 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:39:11,443 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:39:13,154 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:39:13,156 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:39:14,750 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:39:14,754 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:39:16,562 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:39:16,566 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:43:59,353 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:43:59,367 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:43:59,376 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:43:59,386 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:43:59,391 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:43:59,394 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:44:02,939 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:44:02,955 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:44:03,221 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:44:03,421 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:44:03,647 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:44:03,650 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:44:05,853 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:44:05,856 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:44:07,443 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:44:07,450 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:44:14,135 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:44:14,135 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:44:15,752 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:44:15,752 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:44:17,514 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:44:17,518 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:44:19,049 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:44:19,050 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:44:20,742 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:44:20,748 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:24,787 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:24,803 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:24,812 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:24,823 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:24,827 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:24,830 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:28,334 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:46:28,695 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 14:46:28,853 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:46:28,895 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 14:46:29,230 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:29,234 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:31,211 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:31,217 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:32,900 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:32,904 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:39,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:39,595 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:41,203 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:41,203 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:42,856 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:42,858 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:44,420 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:44,420 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 14:46:46,253 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 14:46:46,255 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:27,980 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:27,994 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:28,005 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:28,012 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:28,019 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:28,032 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:33,914 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 15:56:34,186 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 15:56:34,677 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 15:56:34,964 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - Clicked on product's image
+2023-02-23 15:56:36,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:36,093 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:38,268 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:38,271 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:40,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:40,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:47,034 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:47,039 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:49,413 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:49,421 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:51,276 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:51,278 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:53,243 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:53,250 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 15:56:54,957 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 15:56:54,962 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 17:14:05,748 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 17:14:05,764 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 17:14:09,988 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-23 17:26:04,422 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-23 17:26:04,438 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-23 17:26:07,952 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-24 07:07:39,255 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-24 07:07:39,274 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-24 07:07:46,445 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in
+2023-02-24 09:01:52,047 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 110.0.5481.77 (since Google Chrome 110 is installed in your machine)
+2023-02-24 09:01:52,059 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\azera\.m2\repository\webdriver\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-02-24 09:01:55,571 - ui_automation.step_definitions.SwagLabsProductsPageStep -INFO - I have entered valid credentials to log in

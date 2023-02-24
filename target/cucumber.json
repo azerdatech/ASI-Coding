@@ -1,0 +1,1655 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-02-24T14:19:31.936Z",
+        "before": [
+          {
+            "result": {
+              "duration": 763400,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Create User",
+        "description": "",
+        "id": "create-user-on-reqres.in;create-user",
+        "after": [
+          {
+            "result": {
+              "duration": 19300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user makes a POST call on reqres.in",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 589700,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user should receive 201 response status code",
+            "match": {
+              "arguments": [
+                {
+                  "val": "201",
+                  "offset": 20
+                }
+              ],
+              "location": "CreateUser.user_should_receive_response_status_code(Integer)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      }
+    ],
+    "name": "Create User on reqres.in",
+    "description": "",
+    "id": "create-user-on-reqres.in",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/apiFeatures/CreateUser.feature",
+    "tags": [
+      {
+        "name": "@run",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 435700,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:31.986Z",
+        "before": [
+          {
+            "result": {
+              "duration": 24800,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 11100,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1115900,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"standard_user\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"standard_user\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 497300,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"secret_sauce\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 335600,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 334500,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 389700,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 530400,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.007Z",
+        "before": [
+          {
+            "result": {
+              "duration": 28100,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 15900,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1432700,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"locked_out_user\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"locked_out_user\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 507200,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"secret_sauce\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 381700,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 370200,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 396200,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"Epic sadface: Sorry, this user has been locked out.\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Epic sadface: Sorry, this user has been locked out.\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 241200,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.016Z",
+        "before": [
+          {
+            "result": {
+              "duration": 49200,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 14800,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1294100,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"problem_user\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"problem_user\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 451700,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"secret_sauce\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 384000,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 357300,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 352400,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 368400,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.025Z",
+        "before": [
+          {
+            "result": {
+              "duration": 17400,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 11300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1564200,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"performance_glitch_user\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"performance_glitch_user\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 365500,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"secret_sauce\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 333600,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 340800,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 364900,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 447700,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.033Z",
+        "before": [
+          {
+            "result": {
+              "duration": 22200,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 14300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1181100,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"performanceglitchuser\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"performanceglitchuser\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 355100,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"secret_sauce\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 391900,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2509600,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 672400,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"Epic sadface: Username and password do not match any user in this service\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Epic sadface: Username and password do not match any user in this service\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 331700,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.044Z",
+        "before": [
+          {
+            "result": {
+              "duration": 21700,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;7",
+        "after": [
+          {
+            "result": {
+              "duration": 11800,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1147900,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"performance_glitch_user\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"performance_glitch_user\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 335400,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"secret_sauc\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauc\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 855500,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 508400,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 378400,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"Epic sadface: Username and password do not match any user in this service\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Epic sadface: Username and password do not match any user in this service\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 543100,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.051Z",
+        "before": [
+          {
+            "result": {
+              "duration": 22900,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;8",
+        "after": [
+          {
+            "result": {
+              "duration": 11200,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 860500,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 484900,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"secret_sauce\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 372300,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 320000,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 370200,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"Epic sadface: Username is required\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Epic sadface: Username is required\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 497600,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.059Z",
+        "before": [
+          {
+            "result": {
+              "duration": 62400,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;9",
+        "after": [
+          {
+            "result": {
+              "duration": 8400,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 923900,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"standard_user\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"standard_user\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 355800,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 477800,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 319200,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 334000,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"Epic sadface: Password is required\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Epic sadface: Password is required\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 420400,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user lands on SwagLabs login page",
+            "match": {
+              "location": "LoginStep.user_lands_on_SwagLabs_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.066Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Positive and Negative Login scenario execution",
+        "description": "",
+        "id": "swaglabslogin-with-valid-and-invalid-credentials;positive-and-negative-login-scenario-execution;;10",
+        "after": [
+          {
+            "result": {
+              "duration": 13300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 849300,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User enters \"\" username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_username(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 328100,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enters \"\" pwd",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 12
+                }
+              ],
+              "location": "LoginStep.user_enters_pwd(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 349800,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click login button",
+            "match": {
+              "location": "LoginStep.user_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 377900,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "if user entered correct credentials, user should be able to land on home page",
+            "match": {
+              "location": "LoginStep.if_user_entered_correct_credentials_user_should_be_able_to_land_on_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 526900,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "if user entered wrong credentials, user should be able to see \"Epic sadface: Username is required\" message",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Epic sadface: Username is required\"",
+                  "offset": 62
+                }
+              ],
+              "location": "LoginStep.if_user_entered_wrong_credentials_user_should_be_able_to_see_message(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      }
+    ],
+    "name": "SwagLabsLogin with valid and invalid credentials",
+    "description": "",
+    "id": "swaglabslogin-with-valid-and-invalid-credentials",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/uiFeatures/SwagLabsLogin.feature",
+    "tags": [
+      {
+        "name": "@run",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 382800,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user logged in to SwabLabs home page",
+            "match": {
+              "location": "SwagLabsProductsPageStep.user_logged_in_to_SwabLabs_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-24T14:19:32.073Z",
+        "before": [
+          {
+            "result": {
+              "duration": 79100,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Validation items on SwabLabs homePage",
+        "description": "",
+        "id": "home-page-elements-validation;validation-items-on-swablabs-homepage",
+        "after": [
+          {
+            "result": {
+              "duration": 14300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 985100,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user clicks on SwabLab product\u0027s image",
+            "match": {
+              "location": "SwagLabsProductsPageStep.user_clicks_on_SwabLab_product_s_image()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 333800,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "add the item to shopping cart by clicking on Add To Cart button",
+            "match": {
+              "location": "SwagLabsProductsPageStep.add_the_item_to_shopping_cart_by_clicking_on_Add_To_Cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 333000,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "number of items in the cart should appear next to the cart icon",
+            "match": {
+              "location": "SwagLabsProductsPageStep.numberOfItemsInTheCartShouldAppearNextToTheCartIcon()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      }
+    ],
+    "name": "Home Page elements validation",
+    "description": "",
+    "id": "home-page-elements-validation",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/uiFeatures/homePage.feature",
+    "tags": [
+      {
+        "name": "@run",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-02-24T14:19:32.083Z",
+        "before": [
+          {
+            "result": {
+              "duration": 21300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Retrieving price list of items",
+        "description": "",
+        "id": "pricelist-of-all-items;retrieving-price-list-of-items",
+        "after": [
+          {
+            "result": {
+              "duration": 12700,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 325000,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user logged in to SwabLabs home page",
+            "match": {
+              "location": "SwagLabsProductsPageStep.user_logged_in_to_SwabLabs_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 328700,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "select (price Low to High) in filter section",
+            "match": {
+              "location": "PriceListOfItemsStep.clicks_on_price_Low_to_High_section()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 277500,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "verifies prices for all items",
+            "match": {
+              "location": "PriceListOfItemsStep.verifies_prices_for_all_items()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      }
+    ],
+    "name": "PriceList of all items",
+    "description": "",
+    "id": "pricelist-of-all-items",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/uiFeatures/priceListOfItems.feature",
+    "tags": [
+      {
+        "name": "@run",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-02-24T14:19:32.098Z",
+        "before": [
+          {
+            "result": {
+              "duration": 22500,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User removes an item from the cart",
+        "description": "",
+        "id": "remove-item-from-cart-validation;user-removes-an-item-from-the-cart",
+        "after": [
+          {
+            "result": {
+              "duration": 10000,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 314000,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user logged in to SwabLabs home page",
+            "match": {
+              "location": "SwagLabsProductsPageStep.user_logged_in_to_SwabLabs_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 289900,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks on SwabLab product\u0027s image",
+            "match": {
+              "location": "SwagLabsProductsPageStep.user_clicks_on_SwabLab_product_s_image()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 383800,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "add the item to shopping cart by clicking on Add To Cart button",
+            "match": {
+              "location": "SwagLabsProductsPageStep.add_the_item_to_shopping_cart_by_clicking_on_Add_To_Cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 371100,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user removes an item by clicking on remove button",
+            "match": {
+              "location": "RemoveFromCartStep.userRemovesAnItemByClickingOnRemoveButton()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@run"
+          }
+        ]
+      }
+    ],
+    "name": "Remove item from Cart validation",
+    "description": "",
+    "id": "remove-item-from-cart-validation",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/uiFeatures/removeFromCart.feature",
+    "tags": [
+      {
+        "name": "@run",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

@@ -130,7 +130,8 @@
                     <version>2.22.0</version>
                     <configuration>
                         <parallel>methods</parallel>
-                        <threadCount>2</threadCount>
+<!--                        <threadCount>11</threadCount>-->
+                        <useUnlimitedThreads>true</useUnlimitedThreads>
                         <testFailureIgnore>true</testFailureIgnore>
                     </configuration>
                 </plugin>

@@ -1,0 +1,17 @@
+ui_automation\step_definitions\RemoveFromCartStep.class
+ui_automation\step_definitions\LoginStep.class
+ui_automation\step_definitions\PriceListOfItemsStep.class
+ui_automation\utilities\Driver.class
+ui_automation\utilities\BrowserFactory.class
+api_automation\stepDefinition\utilities\Base.class
+api_automation\stepDefinition\CreateUser.class
+ui_automation\utilities\Helper.class
+ui_automation\pages\LoginPage.class
+ui_automation\step_definitions\Hooks.class
+api_automation\stepDefinition\reqresGetList.class
+api_automation\stepDefinition\ReqresGetUserSingle.class
+runners\TestRunner.class
+api_automation\stepDefinition\reqBld\GetReqBuilder.class
+ui_automation\pages\HomePage.class
+ui_automation\step_definitions\SwagLabsProductsPageStep.class
+api_automation\stepDefinition\reqBld\CreateReqBuilder.class
